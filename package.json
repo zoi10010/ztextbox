@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": false,
   "description": "Two test React components",
-  "author": "Denis Voice",
+  "author": "denis",
+  "keywords": ["react", "components", "ui"],
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -12,13 +13,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zoi10010/ztextbox.git"
+    "url": "git@github.com:zoi10010/ztextbox.git"
   },
-  "keywords": [
-    "Trakzo",
-    "Zoifintech",
-    "Home.Trakzo"
-  ],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.14.1",
