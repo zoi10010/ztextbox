@@ -1,7 +1,7 @@
 {
   "name": "ztextbox",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "Two test React components",
   "author": "Denis Voice",
   "main": "dist/index.js",
@@ -10,6 +10,10 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoi10010/ztextbox.git"
+  },
   "keywords": [
     "Trakzo",
     "Zoifintech",
